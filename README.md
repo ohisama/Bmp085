@@ -1,11 +1,11 @@
-ohisama/Lcd8574
+ohisama/Bmp085
 ======
 
 WHATS:
 ------
 
   fork https://github.com/kachok/arduino-libraries 
-  arduino LCD Library
+  arduino BMP085 Library
 
 INSTALL:
 --------
